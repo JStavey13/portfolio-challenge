@@ -89,12 +89,12 @@ a {
 }
 
 .aside-box1 .aside-title-box1 {
-    background-color: blue;
+    text-align: right;
     position: relative;
     float: right;
     margin: 8rem 0 1.5rem 0;
     padding: 0.5rem 1rem;
-    border: 2px solid green;
+    border-right: 4px solid green;
     border-radius: 8px;
     width: 20%
 }
@@ -111,12 +111,12 @@ a {
 }
 
 .aside-box2 .aside-title-box2 {
-    background-color: blue;
+    text-align: right;
     position: relative;
     float: right;
     margin: 8rem 0 1.5rem 0;
     padding: 0.5rem 1rem;
-    border: 2px solid green;
+    border-right: 4px solid green;
     border-radius: 8px;
     width: 20%
 }
@@ -133,11 +133,11 @@ a {
 }
 
 .aside-box3 .aside-title-box3 {
-    background-color: blue;
+    text-align: right;
     position: relative;
     float: right;
     padding: 0.5rem 1rem;
-    border: 2px solid green;
+    border-right: 4px solid green;
     border-radius: 8px;
     width: 20%
 }
@@ -306,14 +306,14 @@ a {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-    background-color: aqua;
+    background-color: gray;
     height: 100%;
     
 }
 
 .contact nav ul {
     list-style-type: none;
-    background-color: blue;
+    background-color: gray;
 }
 
 .contact nav ul li {
